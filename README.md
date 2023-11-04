@@ -1,16 +1,14 @@
-### Hi there 👋
+![Intro GIF](intro.gif)
 
-<!--
-**Plhume/Plhume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi I'm Plhume
 
-Here are some ideas to get you started:
+- 🥖 I'm _French_ !
+- 💻 Working on **LaraCraft** Team
+- 🤔 I'm a ``Java developer``
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📐 Languages and Tools
+
+<img align="left" height="45px" width="45px" src="https://bit.ly/3rw9m8C">
+<img align="left" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+<img align="left" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
+<img align="left" height="45px" width="45px" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
